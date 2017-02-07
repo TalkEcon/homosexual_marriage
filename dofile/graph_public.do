@@ -72,7 +72,7 @@ set scheme s2color
 graph bar homo_agree if birth_cohort_big==0, over(survey_year) ///
 legend(off) ///
 blabel(bar, position(inside) format(%9.2fc) color(white)) ///
-ytitle("¦P§Ó±B«ÃÃÙ¦¨¤ñ¨Ò")  ///
+ytitle("æ”¯æŒæ¯”ä¾‹")  ///
 graphr(color(white))
 
 cd "" // set the file path
