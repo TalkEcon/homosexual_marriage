@@ -1,2 +1,3 @@
 # homosexual_marriage
-This repository contains the files for the article -Who supports homosexual marriage? An observation from cohort and education variation  
+原文網址：誰支持同志婚姻？從出生世代與教育程度觀察
+http://talkecon.com/homosexual_social_change/
