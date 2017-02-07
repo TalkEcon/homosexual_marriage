@@ -9,7 +9,7 @@ http://talkecon.com/homosexual_social_change/
 
 2.	dofile 文件夾內包含 3 個檔案，都是用 Stata 13 可以執行的檔案。<br/> 如果您有下載台灣社會變遷調查的權限，<br/> 請參考下列載點：<br/> [1991第二期第二次：家庭、教育組](https://srda.sinica.edu.tw/group/sciitem/3/5) <br/>[2009第五期第五次：宗教組](https://srda.sinica.edu.tw/group/sciitem/3/191) <br/>[2012第六期第三次：性別組](https://srda.sinica.edu.tw/group/sciitem/3/1565) <br/>[2015第七期第一次：綜合問卷組](https://srda.sinica.edu.tw/group/sciitem/3/1954) <br/>以下3個檔案依次執行，便能得到本文中的圖片（Stata 的版本）。<br/>請注意，原始資料的檔案名稱與檔案路徑需要您在下面的檔案中自行編輯。另外，如果您使用 Stata 14，可能原始檔案會有亂碼，請參考下面這個網址處理。<br/> http://www.sciformosa.com.tw/Download/Stata/Stata14_OldVersionUnicode.pdf <br/>
 
- align_public：這個檔案從社會變遷調查歷年的原始資料中抓取奔文需要的變數，並將不同年的資料合併在一起。<br/>
+ align_public：這個檔案從社會變遷調查歷年的原始資料中抓取本文需要的變數，並將不同年的資料合併在一起。<br/>
  data_clean_public：這個檔案把不合要求的資料刪除，並整理變數到我們想要的形式<br/>
  graph_public：這個檔案畫出本文的所有圖片。<br/>
 
